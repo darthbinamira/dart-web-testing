@@ -1,0 +1,5 @@
+name: web_automation
+dependencies:
+  webdriver: any
+dev_dependencies:
+  test: '^1.0.0'
